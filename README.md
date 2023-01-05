@@ -13,29 +13,27 @@
 
 <h1 align="center">RELEVAMIENTO VISUAL</h1>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/EmmaVZ89/Clinica-Online-TP2-Laboratorio-IV/main/src/favicon.ico">
+   <img width=300 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/logo.png">
  </p>
- <h2>Requerimientos de la aplicación</h2>
- <p>
- Debemos realizar un sistema según las necesidades y deseos del cliente, para eso tenemos una breve
-descripción de lo que el cliente nos comenta acerca de su negocio.
- </p>
-  <p>
- “La clínica OnLine, especialista en salud, cuenta actualmente con consultorios (6 en la actualidad),
-dos laboratorios (físicos en la clínica), y una sala de espera general. Está abierta al público de lunes a
-viernes en el horario de 8:00 a 19:00, y los sábados en el horario de 8:00 a 14:00.
- </p>
- <p>
-Trabajan en ella profesionales de diversas especialidades, que ocupan los consultorios acorde a su
-disponibilidad, y reciben en ellos pacientes con turno para consulta o tratamiento. Dichos turnos son
-pedidos por la web seleccionando el profesional o la especialidad. La duración mínima de un turno es
-30 minutos.” pero los profesionales pueden cambiar la duración según su especialidad. Estos
-profesionales pueden tener más de una especialidad.
- </p>
-  <p>
-También contamos con un sector dentro de la clínica que se encarga de la organización y
-administración de la misma.
- </p>
+ <h2>Requerimientos de la aplicación:</h2>
+  <ul>
+    <li>Ingresar un usuario. (registrado en BD).</li>
+    <li>La pantalla principal permitirá seleccionar un BOTÓN de dos posibles (Cosas LINDAS del edificio, Cosas FEAS del edificio).</li>
+    <li>Los botones deben de ocupar toda la pantalla (TODA LA PANTALLA) y poseer imágenes alusivas.</li>
+    <li>Al ingresar a una sección, nos permite tomar una foto y subirla a la nube.</li>
+    <li>El nombre del usuario tiene que estar relacionado con la foto.</li>
+    <li>Los demás usuarios tienen que poder ver la foto subida.</li>
+    <li>El listado de fotos se tiene que mostrar ordenado por fecha de forma DESCENDENTE.</li>
+    <li>Permitir votar la cosa más linda y la más fea del edificio (un voto por foto).</li>
+    <li>Permitir ver los resultados en gráficos de torta (para las lindas) y de barra (para las feas).</li>
+    <li>PLUS: 
+      <ul>
+        <li>Al seleccionar un resultado del gráfico, mostrar la foto correspondiente.</li>
+        <li>Permitir subir más de una foto a la vez.</li>
+        <li>Mostrar el listado de las fotos que el usuario subió (en una nueva sección).</li>
+      </ul>
+    </li>
+  </ul>
  
  <h2>HOME</h2>
  <p align="center">
