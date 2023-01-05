@@ -69,27 +69,13 @@
  <hr>
  <h2 align="center">VISTAS</h2>
  <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/5%20login.png">
-   <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/6%20home.png">
-  <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/7%20menu%20principal%20CL.png">
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/8%20Cosas%20Lindas.png">
- </p>
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/9%20Chart%20CL.png">
- </p>
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/10%20Listado%20CL.png">
- </p>
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/11%20menu%20principal%20CF.png">
- </p>
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/12%20Cosas%20Feas.png">
- </p>
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/13%20Chart%20CF.png">
- </p>
- <p align="left">
-  <img width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/14%20Listado%20CF.png">
- </p>
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/6%20home.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/7%20menu%20principal%20CL.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/8%20Cosas%20Lindas.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/9%20Chart%20CL.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/10%20Listado%20CL.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/11%20menu%20principal%20CF.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/12%20Cosas%20Feas.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/13%20Chart%20CF.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Relevamiento-Visual-PPS/blob/main/readme/14%20Listado%20CF.png">
  <hr>
